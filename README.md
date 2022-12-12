@@ -4,7 +4,7 @@
 </p>
 
 # สิ่งที่ต้องมีในเครื่อง 🧾
-- Python 3.6 หรือ สูงกว่า โหลดได้ที่ https://www.python.org/downloads/
+Python 3.6 หรือ สูงกว่า โหลดได้ที่ https://www.python.org/downloads/
 
 ## วิธีการใช้งาน ✨
 1.Download file ผ่าน Github
