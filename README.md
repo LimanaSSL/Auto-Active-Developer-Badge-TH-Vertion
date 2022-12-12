@@ -44,8 +44,8 @@
    <p align="center">
   <img alt="GiveMeBadge" src="https://cdn.discordapp.com/attachments/1040631490024833028/1051863304966000753/image.png" width="750px">
 </p>
-  2 กด CTRL+C
   
+  2 กด CTRL+C
   
   3 เข้าบลาวเซอร์ค้นหา
   
