@@ -74,7 +74,7 @@ Requests
   2 แล้วรอ 24 ชั่วโมง
   
   3 หลังจากผ่าน 24 ชั่วโมงแล้วสามารถ รับ Active Developer ได้ที่ 
-  L https://discord.com/developers/active-developer
+  > https://discord.com/developers/active-developer
   
 ## สุ่มไอดี Valorant
 https://limana.ovdc.xyz/
